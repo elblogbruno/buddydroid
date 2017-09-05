@@ -13,7 +13,7 @@ Instructions
 =============
 
 Step 1: (Webmaster) Install the BuddyPress XML-RPC receiver plugin for Wordpress here: http://wordpress.org/extend/plugins/buddypress-xml-rpc-receiver/
-Step 2: (Webmaster) Activate and configure above plugin via wp-admin under Settings->BuddyPress XML-RPC
+Step 2: (Webmaster) Activate and configure above plugin via wp-admin under Settings->BuddyPress XML-RPC be sure to rename plugin folder to bpxmlrpc!
 Step 3: (App User) Add your website (root path, e.g. http://www.site.com/), username, and password to the Preferences screen in this app.
 
 Once you have done these steps correctly, you should be able to interact with your BuddyPress activity stream.
